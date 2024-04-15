@@ -1,0 +1,4 @@
+ddr_playback/*
+ip/*
+*.zip
+!*.vhd
